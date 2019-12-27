@@ -10,7 +10,7 @@
 	</parent>
 	<artifactId>config-server-basic-security</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>config-server</name>
+	<name>config-server-basic-security</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
