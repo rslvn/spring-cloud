@@ -6,11 +6,26 @@
 
 ### end points of properties
 
-<div>
-    <a href="http://localhost:8888/config-client/test" target="_blank">http://localhost:8888/config-client/test</a>
-    <br/>
-    <a href="http://localhost:8888/config-client/test/master" target="_blank">http://localhost:8888/config-client/test/master</a>
-</div>
+#### config-client endpoints
+##### Test: 
+[http://localhost:8888/config-client/test](http://localhost:8888/config-client/test) or 
+[http://localhost:8888/config-client/test/master](http://localhost:8888/config-client/test/master)
+
+##### Prod: 
+[http://localhost:8888/config-client/prod](http://localhost:8888/config-client/prod) or 
+[http://localhost:8888/config-client/prod/master](http://localhost:8888/config-client/prod/master)
+
+##### Development: 
+[http://localhost:8888/config-client/development](http://localhost:8888/config-client/development) or 
+[http://localhost:8888/config-client/development/master](http://localhost:8888/config-client/development/master)
+
+##### Acceptance: 
+[http://localhost:8888/config-client/acceptance](http://localhost:8888/config-client/acceptance) or 
+[http://localhost:8888/config-client/acceptance/master](http://localhost:8888/config-client/acceptance/master)
+
+##### Personal: 
+[http://localhost:8888/config-client/personal](http://localhost:8888/config-client/personal) or 
+[http://localhost:8888/config-client/personal/master](http://localhost:8888/config-client/personal/master)
 
 #### request
 ```shell script
