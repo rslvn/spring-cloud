@@ -21,9 +21,11 @@
 	</properties>
 
 	<modules>
+		<module>third-party-server</module>
 		<module>config-server</module>
 		<module>config-server-basic-security</module>
 		<module>config-server-encrypted-security</module>
+		<module>config-client</module>
 	</modules>
 
 	<dependencies>

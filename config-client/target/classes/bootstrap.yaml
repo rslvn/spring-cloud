@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: config-client
+  profiles:
+    active: development,second
+  cloud:
+    config:
+      uri: http://localhost:8888
+#      username: user
+#      password: pass
+      label: master
+      name: ${spring.application.name}
+      profile: ${spring.profiles.active}
+      send-state: true
+      request-read-timeout: 5000
+      fail-fast: false
+
+logging:
+  level:
+    org:
+      springframework: info
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh,env

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server-basic-security/config-server-basic-security.iml" filepath="$PROJECT_DIR$/config-server-basic-security/config-server-basic-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server-encrypted-security/config-server-encrypted-security.iml" filepath="$PROJECT_DIR$/config-server-encrypted-security/config-server-encrypted-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-config.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/third-party-server/third-party-server.iml" filepath="$PROJECT_DIR$/third-party-server/third-party-server.iml" />
+    </modules>
+  </component>
+</project>
