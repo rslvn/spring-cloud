@@ -2,7 +2,7 @@ spring:
   application:
     name: config-client
   profiles:
-    active: development,second,third
+    active: development,third,second
   cloud:
     config:
       uri: http://localhost:8888

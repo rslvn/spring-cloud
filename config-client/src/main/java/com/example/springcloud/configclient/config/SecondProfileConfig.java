@@ -23,22 +23,27 @@ public class SecondProfileConfig {
     @Value("${second.name}")
     private String name;
 
+    @Value("${common.property}")
+    private String commonProperty;
+
     @PostConstruct
     private void postConstruct() {
-        log.info("{} is started with parameters id: {}, nam: {}, count: {}",
+        log.info("{} is started with parameters id: {}, nam: {}, count: {}, commonProperty: {}",
                 this.getClass().getSimpleName(),
                 this.id,
                 this.name,
-                this.count);
+                this.count,
+                this.commonProperty);
     }
 
     @PreDestroy
     private void preDestroy() {
-        log.info("{} is destroyed with parameters id: {}, nam: {}, count: {}",
+        log.info("{} is destroyed with parameters id: {}, nam: {}, count: {}, commonProperty: {}",
                 this.getClass().getSimpleName(),
                 this.id,
                 this.name,
-                this.count);
+                this.count,
+                this.commonProperty);
     }
 
     public SecondProfileParams getSecondProfileParams() {
@@ -46,6 +51,7 @@ public class SecondProfileConfig {
                 .id(id)
                 .name(name)
                 .count(count)
+                .commonProperty(commonProperty)
                 .build();
     }
 

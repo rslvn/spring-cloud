@@ -11,4 +11,5 @@ public class SecondProfileParams {
     private String id;
     private long count;
     private String name;
+    private String commonProperty;
 }
