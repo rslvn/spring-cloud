@@ -2,203 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee557b51-4096-4ff4-90c4-13c466dae774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_64.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_64.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_5_1_3_201810200350_r.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_5_1_3_201810200350_r.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/spring-cloud-config.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/config-client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/src/main/java/com/example/springcloud/configclient/ConfigClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/src/main/java/com/example/springcloud/configclient/config/RestClientConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/src/main/java/com/example/springcloud/configclient/config/SecondProfileConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/src/main/java/com/example/springcloud/configclient/controller/ConfigController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/src/main/java/com/example/springcloud/configclient/domain/ConfigParams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/src/main/resources/bootstrap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/src/test/java/com/example/springcloud/configclient/ConfigClientApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/target/classes/META-INF/config-client.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/target/classes/bootstrap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/target/classes/com/example/springcloud/configclient/ConfigClientApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/target/classes/com/example/springcloud/configclient/config/RestClientConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/target/classes/com/example/springcloud/configclient/config/SecondProfileConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/target/classes/com/example/springcloud/configclient/controller/ConfigController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/target/classes/com/example/springcloud/configclient/domain/ConfigParams$ConfigParamsBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/target/classes/com/example/springcloud/configclient/domain/ConfigParams.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/target/config-client-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/target/config-client-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/target/surefire-reports/TEST-com.example.springcloud.configclient.ConfigClientApplicationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/target/surefire-reports/com.example.springcloud.configclient.ConfigClientApplicationTests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/target/test-classes/com/example/springcloud/configclient/ConfigClientApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-basic-security/config-server-basic-security.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-basic-security/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-basic-security/target/classes/com/example/springcloud/configserver/ConfigServerBasicSecurityApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-basic-security/target/classes/com/example/springcloud/configserver/SecurityConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-basic-security/target/config-server-basic-security-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-basic-security/target/config-server-basic-security-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-basic-security/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-basic-security/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-basic-security/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-basic-security/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-basic-security/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-basic-security/target/surefire-reports/TEST-com.example.springcloud.configserver.ConfigServerBasicSecurityApplicationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-basic-security/target/surefire-reports/com.example.springcloud.configserver.ConfigServerBasicSecurityApplicationTests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-basic-security/target/test-classes/com/example/springcloud/configserver/ConfigServerBasicSecurityApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-encrypted-security/config-server-encrypted-security.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-encrypted-security/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-encrypted-security/target/classes/bootstrap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-encrypted-security/target/classes/com/example/springcloud/configserver/ConfigServerEncryptedSecurityApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-encrypted-security/target/classes/com/example/springcloud/configserver/SecurityConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-encrypted-security/target/classes/config-server.jks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-encrypted-security/target/config-server-encrypted-security-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-encrypted-security/target/config-server-encrypted-security-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-encrypted-security/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-encrypted-security/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-encrypted-security/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-encrypted-security/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-encrypted-security/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-encrypted-security/target/surefire-reports/TEST-com.example.springcloud.configserver.ConfigServerBasicSecurityApplicationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-encrypted-security/target/surefire-reports/com.example.springcloud.configserver.ConfigServerBasicSecurityApplicationTests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server-encrypted-security/target/test-classes/com/example/springcloud/configserver/ConfigServerBasicSecurityApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/config-server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/target/classes/com/example/springcloud/configserver/ConfigServerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/target/config-server-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/target/config-server-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/target/surefire-reports/TEST-com.example.springcloud.configserver.ConfigServerApplicationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/target/surefire-reports/com.example.springcloud.configserver.ConfigServerApplicationTests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/target/test-classes/com/example/springcloud/configserver/ConfigServerApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-party-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-party-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-party-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-party-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-party-server/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-party-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-party-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-party-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-party-server/src/main/java/com/example/thirdparty/server/ThirdPartyServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-party-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-party-server/src/test/java/com/example/thirdparty/server/ThirdPartyServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-party-server/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-party-server/target/classes/com/example/thirdparty/server/ThirdPartyServerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-party-server/target/test-classes/com/example/thirdparty/server/ThirdPartyServerApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third-party-server/third-party-server.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/src/main/java/com/example/springcloud/configclient/component/ConfigWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/src/main/java/com/example/springcloud/configclient/config/ConfigurationPropertiesConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/src/main/java/com/example/springcloud/configclient/domain/SecondProfileParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/src/main/java/com/example/springcloud/configclient/properties/ThirdProfileProps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/src/main/java/com/example/springcloud/configclient/service/ConfigService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-client/src/main/java/com/example/springcloud/configclient/ConfigClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/config-client/src/main/java/com/example/springcloud/configclient/ConfigClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-client/src/main/java/com/example/springcloud/configclient/config/SecondProfileConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/config-client/src/main/java/com/example/springcloud/configclient/config/SecondProfileConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-client/src/main/java/com/example/springcloud/configclient/controller/ConfigController.java" beforeDir="false" afterPath="$PROJECT_DIR$/config-client/src/main/java/com/example/springcloud/configclient/controller/ConfigController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-client/src/main/resources/bootstrap.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config-client/src/main/resources/bootstrap.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-client/target/classes/bootstrap.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config-client/target/classes/bootstrap.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-client/target/classes/com/example/springcloud/configclient/ConfigClientApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/config-client/target/classes/com/example/springcloud/configclient/ConfigClientApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-client/target/classes/com/example/springcloud/configclient/config/SecondProfileConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/config-client/target/classes/com/example/springcloud/configclient/config/SecondProfileConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-client/target/classes/com/example/springcloud/configclient/controller/ConfigController.class" beforeDir="false" afterPath="$PROJECT_DIR$/config-client/target/classes/com/example/springcloud/configclient/controller/ConfigController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,7 +55,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -313,6 +131,9 @@
       </list>
     </option>
   </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ee557b51-4096-4ff4-90c4-13c466dae774" name="Default Changelist" comment="" />
@@ -327,7 +148,8 @@
       <workItem from="1577464049853" duration="158000" />
       <workItem from="1577464218251" duration="178000" />
       <workItem from="1577464412420" duration="53000" />
-      <workItem from="1577464481295" duration="13787000" />
+      <workItem from="1577464481295" duration="17583000" />
+      <workItem from="1577715405719" duration="170000" />
     </task>
     <task id="LOCAL-00001" summary="property and readme updates">
       <created>1577458011499</created>
@@ -364,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577701357214</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="client configuration">
+      <created>1577711624012</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577711624012</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,7 +203,8 @@
     <MESSAGE value="property and readme updates" />
     <MESSAGE value="configure basic security config server" />
     <MESSAGE value="configure encrypted security config server" />
-    <option name="LAST_COMMIT_MESSAGE" value="configure encrypted security config server" />
+    <MESSAGE value="client configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="client configuration" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2240" y="205" key="#Project_Structure" timestamp="1577710704994">
@@ -390,10 +220,10 @@
     </state>
     <state x="2459" y="227" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577711086158" />
     <state x="2718" y="302" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1577462479289" />
-    <state x="2327" y="242" key="CommitChangelistDialog2" timestamp="1577701357083">
+    <state x="2327" y="242" key="CommitChangelistDialog2" timestamp="1577711623726">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state x="2327" y="242" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577701357083" />
+    <state x="2327" y="242" key="CommitChangelistDialog2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577711623726" />
     <state x="2542" y="322" key="CommitChangelistDialog2/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1577461653581" />
     <state x="2542" y="322" key="CommitChangelistDialog2/1680.0.2560.1440/0.23.1680.1027@1680.0.2560.1440" timestamp="1577463466988" />
     <state x="2288" y="289" key="DiffContextDialog" timestamp="1577463439597">
@@ -401,62 +231,71 @@
     </state>
     <state x="2288" y="289" key="DiffContextDialog/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1577461642511" />
     <state x="2288" y="289" key="DiffContextDialog/1680.0.2560.1440/0.23.1680.1027@1680.0.2560.1440" timestamp="1577463439597" />
-    <state width="1878" height="320" key="GridCell.Tab.0.bottom" timestamp="1577711325570">
+    <state width="1878" height="320" key="GridCell.Tab.0.bottom" timestamp="1577715384745">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="320" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577711325570" />
+    <state width="1878" height="320" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577715384745" />
+    <state width="1878" height="320" key="GridCell.Tab.0.bottom/1680.0.1920.1080/52.23.1628.1027@1680.0.1920.1080" timestamp="1577713350533" />
     <state width="2518" height="789" key="GridCell.Tab.0.bottom/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1577464805198" />
     <state width="2518" height="789" key="GridCell.Tab.0.bottom/1680.0.2560.1440/0.23.1680.1027@1680.0.2560.1440" timestamp="1577464032708" />
-    <state width="1878" height="320" key="GridCell.Tab.0.center" timestamp="1577711325567">
+    <state width="1878" height="320" key="GridCell.Tab.0.center" timestamp="1577715384742">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="320" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577711325567" />
+    <state width="1878" height="320" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577715384742" />
+    <state width="1878" height="320" key="GridCell.Tab.0.center/1680.0.1920.1080/52.23.1628.1027@1680.0.1920.1080" timestamp="1577713350529" />
     <state width="2518" height="789" key="GridCell.Tab.0.center/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1577464805195" />
     <state width="2518" height="789" key="GridCell.Tab.0.center/1680.0.2560.1440/0.23.1680.1027@1680.0.2560.1440" timestamp="1577464032705" />
-    <state width="1878" height="320" key="GridCell.Tab.0.left" timestamp="1577711325565">
+    <state width="1878" height="320" key="GridCell.Tab.0.left" timestamp="1577715384741">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="320" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577711325565" />
+    <state width="1878" height="320" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577715384741" />
+    <state width="1878" height="320" key="GridCell.Tab.0.left/1680.0.1920.1080/52.23.1628.1027@1680.0.1920.1080" timestamp="1577713350527" />
     <state width="2518" height="789" key="GridCell.Tab.0.left/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1577464805193" />
     <state width="2518" height="789" key="GridCell.Tab.0.left/1680.0.2560.1440/0.23.1680.1027@1680.0.2560.1440" timestamp="1577464032703" />
-    <state width="1878" height="320" key="GridCell.Tab.0.right" timestamp="1577711325569">
+    <state width="1878" height="320" key="GridCell.Tab.0.right" timestamp="1577715384743">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="320" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577711325569" />
+    <state width="1878" height="320" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577715384743" />
+    <state width="1878" height="320" key="GridCell.Tab.0.right/1680.0.1920.1080/52.23.1628.1027@1680.0.1920.1080" timestamp="1577713350531" />
     <state width="2518" height="789" key="GridCell.Tab.0.right/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1577464805196" />
     <state width="2518" height="789" key="GridCell.Tab.0.right/1680.0.2560.1440/0.23.1680.1027@1680.0.2560.1440" timestamp="1577464032706" />
-    <state width="1878" height="320" key="GridCell.Tab.1.bottom" timestamp="1577711325577">
+    <state width="1878" height="320" key="GridCell.Tab.1.bottom" timestamp="1577715384750">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="320" key="GridCell.Tab.1.bottom/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577711325577" />
+    <state width="1878" height="320" key="GridCell.Tab.1.bottom/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577715384750" />
+    <state width="1878" height="320" key="GridCell.Tab.1.bottom/1680.0.1920.1080/52.23.1628.1027@1680.0.1920.1080" timestamp="1577713350538" />
     <state width="2518" height="789" key="GridCell.Tab.1.bottom/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1577464805203" />
     <state width="2518" height="789" key="GridCell.Tab.1.bottom/1680.0.2560.1440/0.23.1680.1027@1680.0.2560.1440" timestamp="1577464032713" />
-    <state width="1878" height="320" key="GridCell.Tab.1.center" timestamp="1577711325574">
+    <state width="1878" height="320" key="GridCell.Tab.1.center" timestamp="1577715384748">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="320" key="GridCell.Tab.1.center/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577711325574" />
+    <state width="1878" height="320" key="GridCell.Tab.1.center/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577715384748" />
+    <state width="1878" height="320" key="GridCell.Tab.1.center/1680.0.1920.1080/52.23.1628.1027@1680.0.1920.1080" timestamp="1577713350535" />
     <state width="2518" height="789" key="GridCell.Tab.1.center/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1577464805200" />
     <state width="2518" height="789" key="GridCell.Tab.1.center/1680.0.2560.1440/0.23.1680.1027@1680.0.2560.1440" timestamp="1577464032710" />
-    <state width="1878" height="320" key="GridCell.Tab.1.left" timestamp="1577711325572">
+    <state width="1878" height="320" key="GridCell.Tab.1.left" timestamp="1577715384746">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="320" key="GridCell.Tab.1.left/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577711325572" />
+    <state width="1878" height="320" key="GridCell.Tab.1.left/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577715384746" />
+    <state width="1878" height="320" key="GridCell.Tab.1.left/1680.0.1920.1080/52.23.1628.1027@1680.0.1920.1080" timestamp="1577713350534" />
     <state width="2518" height="789" key="GridCell.Tab.1.left/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1577464805199" />
     <state width="2518" height="789" key="GridCell.Tab.1.left/1680.0.2560.1440/0.23.1680.1027@1680.0.2560.1440" timestamp="1577464032709" />
-    <state width="1878" height="320" key="GridCell.Tab.1.right" timestamp="1577711325576">
+    <state width="1878" height="320" key="GridCell.Tab.1.right" timestamp="1577715384749">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="320" key="GridCell.Tab.1.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577711325576" />
+    <state width="1878" height="320" key="GridCell.Tab.1.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577715384749" />
+    <state width="1878" height="320" key="GridCell.Tab.1.right/1680.0.1920.1080/52.23.1628.1027@1680.0.1920.1080" timestamp="1577713350537" />
     <state width="2518" height="789" key="GridCell.Tab.1.right/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1577464805202" />
     <state width="2518" height="789" key="GridCell.Tab.1.right/1680.0.2560.1440/0.23.1680.1027@1680.0.2560.1440" timestamp="1577464032712" />
-    <state x="2469" y="359" key="SettingsEditor" timestamp="1577464546207">
-      <screen x="1680" y="0" width="2560" height="1440" />
-    </state>
-    <state x="2469" y="359" key="SettingsEditor/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1577464546207" />
-    <state x="2340" y="345" key="Vcs.Push.Dialog.v2" timestamp="1577701359730">
+    <state x="2272" y="269" key="SettingsEditor" timestamp="1577715427840">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state x="2340" y="345" key="Vcs.Push.Dialog.v2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577701359730" />
+    <state x="2272" y="269" key="SettingsEditor/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577715427840" />
+    <state x="2469" y="359" key="SettingsEditor/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1577464546207" />
+    <state x="2340" y="345" key="Vcs.Push.Dialog.v2" timestamp="1577711625769">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2340" y="345" key="Vcs.Push.Dialog.v2/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577711625769" />
     <state x="2560" y="460" key="Vcs.Push.Dialog.v2/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1577461656225" />
     <state x="2560" y="460" key="Vcs.Push.Dialog.v2/1680.0.2560.1440/0.23.1680.1027@1680.0.2560.1440" timestamp="1577463469070" />
     <state x="1780" y="100" width="2360" height="1240" key="dock-window-1" timestamp="1577463241566">
@@ -477,9 +316,10 @@
     </state>
     <state x="2212" y="318" key="new project wizard/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577710668396" />
     <state x="2389" y="424" key="new project wizard/1680.0.2560.1440/0.23.1680.1027@1680.0.2560.1440" timestamp="1577463482006" />
-    <state x="2625" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1577464266659">
-      <screen x="1680" y="0" width="2560" height="1440" />
+    <state x="2389" y="248" width="503" height="507" key="search.everywhere.popup" timestamp="1577711931038">
+      <screen x="1680" y="0" width="1920" height="1080" />
     </state>
+    <state x="2389" y="248" width="503" height="507" key="search.everywhere.popup/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1577711931038" />
     <state x="2625" y="331" width="670" height="676" key="search.everywhere.popup/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1577464266659" />
   </component>
 </project>

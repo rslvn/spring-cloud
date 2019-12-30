@@ -1,26 +1,25 @@
-package com.example.springcloud.configclient.config;
+package com.example.springcloud.configclient.properties;
 
-import com.example.springcloud.configclient.domain.SecondProfileParams;
+import lombok.Getter;
+import lombok.Setter;
+import lombok.ToString;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.beans.factory.annotation.Value;
-import org.springframework.cloud.context.config.annotation.RefreshScope;
-import org.springframework.context.annotation.Configuration;
+import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.stereotype.Component;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
 
 @Slf4j
-@RefreshScope
-@Configuration
-public class SecondProfileConfig {
+@Getter
+@Setter
+@ToString
+@Component
+@ConfigurationProperties(prefix = "third")
+public class ThirdProfileProps {
 
-    @Value("${second.id}")
     private String id;
-
-    @Value("${second.count}")
     private long count;
-
-    @Value("${second.name}")
     private String name;
 
     @PostConstruct
@@ -40,13 +39,4 @@ public class SecondProfileConfig {
                 this.name,
                 this.count);
     }
-
-    public SecondProfileParams getSecondProfileParams() {
-        return SecondProfileParams.builder()
-                .id(id)
-                .name(name)
-                .count(count)
-                .build();
-    }
-
 }
